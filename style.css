@@ -1,0 +1,75 @@
+*{
+    background-color: black;
+}
+li a:hover{
+    border-bottom: 3px solid rgb(228, 180, 8);
+    color: blue;
+}
+
+#ab-img{
+    display: flex;
+    flex-direction:row;
+    padding: 75px;
+    padding-right: 5px;
+    width: fit-content;
+    padding-left: 250px;
+    color: white;
+}
+
+#para{
+  width: 100%;
+  padding: 15px;
+  text-align: justify;
+   color: white;
+}
+#abCon h1{
+    text-align: center;
+    font-weight: 900;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     color: white;
+}
+p {
+    font-style:inherit ;
+    color: white;
+
+}
+
+
+#abCon span{
+        text-decoration: underline;
+        text-align: center;
+         color: white;
+    
+    }
+#card{
+    display: flex;
+    justify-content: space-between;
+    padding: 60px;
+     color: white;
+    
+    
+}
+#list li a{
+    justify-content: space-between;
+        margin: 10px 12px;
+         color: white;
+    
+}
+#button {
+    margin-left: 100px;
+     color: white;
+}
+button{
+    background-color: orangered;
+    border-radius: 20px;
+    border: none;
+     color: white;
+}
+.form-label{
+    color: white;
+}
+#container{
+    color: white;
+}
+
